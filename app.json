@@ -1,9 +1,9 @@
 {
-  "name": "YouTube Downloader Bot",
+  "name": "YouTube-search-bot",
   "description": "A telegram bot To Download Youtube Files ",
   "logo": "https://telegra.ph/file/6a3b1febade2313dd0dca.jpg",
   "keywords": [
-    "Youtube","YoutubeDownloader"
+    "Youtube","Youtubesech"
   ],
   "repository": "https://github.com/fajisnm/youtube-search-bot",
   "success_url": "https://t.me/youtubdlbot",
