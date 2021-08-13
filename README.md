@@ -20,4 +20,4 @@
 * Spechide for his AnyDlBot
 * HasibulKabir
 
-![Deploy](https://heroku.com/deploy?template=https://github.com/fajisnm/Youtube-Downloader-Bot/tree/master)
+[Deploy](https://heroku.com/deploy?template=https://github.com/fajisnm/youtube-search-bot/tree/master)
